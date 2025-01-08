@@ -1,4 +1,4 @@
-# FARA text extraction using Gemini - Public Repo
+# FARA text extraction using Gemini (public repo)
 
 ### Project description
 

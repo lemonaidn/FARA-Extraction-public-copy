@@ -20,4 +20,4 @@ With a billable account, initial testing shows that processing 100 documents cos
 
 Run the code in gemini_pipeline.ipynb to process a batch of documents. The notebook is currently set up to process the 100 most-recent filings. If you want to change or expand the selection of documents being processed, update the number(s) in the for loop for both steps.
 
-short_form_14_to_24.csv contains the urls of short-form disclosures from 2014 through mid-November 2024. That csv was derived from a list of all short-forms maintained by the DoJ, which you can access here: https://efile.fara.gov/ords/fara/f?p=107:21
+short_form_14_to_24.csv contains the urls of short-form disclosures from 2014 through mid-November 2024. That csv was derived from a list of all registrant docs (FARA_All_RegistrantDocs.csv) maintained by the DoJ, which you can access here: https://efile.fara.gov/ords/fara/f?p=107:21
